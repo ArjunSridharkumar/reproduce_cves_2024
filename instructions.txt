@@ -1,0 +1,6 @@
+The document showcasing the steps to exploit and POC is present in the zip file.
+A html version is available in the Zip. If the html does not work, a word file is also provided.
+
+If the gifs do not work, raw versions of the video are provided in all_videos folder.
+
+To reproduce, the code is provided. The steps from the word/html doc can be used.
